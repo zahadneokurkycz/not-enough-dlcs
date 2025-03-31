@@ -1,6 +1,9 @@
 # Not enough DLCs
 Minecraft mod by zahadneokurkycz
 
+## Installation
+You can download this mod from [here](https://modrinth.com/mod/notenoughdlc). If you don't know how to install it, please refer to [https://www.wikihow.com/Install-Minecraft-Mods](here).
+
 ## Introduction
 Step into a wildly satirical Minecraft world where nothing is free! In Not Enough DLCs, every action, from walking to placing blocks, requires a DLC purchase. This mod offers a unique blend of pay to win and challenge, transforming standard Minecraft gameplay into a quest for wealth and survival. Will you rise to the challenge and find creative ways to earn your freedom, or succumb to the endless DLC demands?
 
