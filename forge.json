@@ -4,17 +4,19 @@
         "1.2.2": "Reworked the mod to use a new system for loading DLCs, which should be more scalable, so I can add things easier and faster in the future. Added support for 1.20.1.",
         "1.2.6": "First stable release of the mod. Added a lot of new stuff.",
         "1.2.7.5": "Added new spawner blocks + added update checker",
-        "1.2.8": "Added loot tables for bank structure and completely rebuild it"
+        "1.2.8": "Added loot tables for bank structure and completely rebuild it",
+        "1.2.8.1": "Fixed head icon on the top left in main menu. Just a small visual bug fix"
     },
     "1.20.2": {
         "1.2.6": "First stable release of the mod. Added a lot of new stuff.",
         "1.2.7.5": "Added new spawner blocks + added update checker",
-        "1.2.8": "Added loot tables for bank structure and completely rebuild it"
+        "1.2.8": "Added loot tables for bank structure and completely rebuild it",
+        "1.2.8.1": "Fixed head icon on the top left in main menu. Just a small visual bug fix"
     },
     "promos": {
-        "1.20.2-latest": "1.2.8",
-        "1.20.2-recommended": "1.8",
-        "1.20.1-latest": "1.2.8",
-        "1.20.1-recommended": "1.2.8"
+        "1.20.2-latest": "1.2.8.1",
+        "1.20.2-recommended": "1.8.1",
+        "1.20.1-latest": "1.2.8.1",
+        "1.20.1-recommended": "1.2.8.1"
     }
   }
