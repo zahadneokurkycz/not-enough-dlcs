@@ -13,24 +13,6 @@
         "1.2.8.2": "Beta - 1st version avaible for 1.20.6. Added new 'Escape portal' block (yet to be used), with with you can escape from upcomming structure - The prison",
         "1.2.8.3": "fixed /prison command"
     },
-    "1.21.2": {
-        "1.2.6": "First stable release of the mod. Added a lot of new stuff.",
-        "1.2.7": "Updated the mod for neoforge to 1.21.4. Also added new textures which are yet unused",
-        "1.2.7.5": "Added new spawner blocks + added update checker",
-        "1.2.8": "Added loot tables for bank structure and completely rebuild it",
-        "1.2.8.1": "Fixed head icon on the top left in main menu. Just a small visual bug fix",
-        "1.2.8.2": "Beta - 1st version avaible for 1.20.6. Added new 'Escape portal' block (yet to be used), with with you can escape from upcomming structure - The prison",
-        "1.2.8.3": "fixed /prison command"
-    },
-    "1.21.3": {
-        "1.2.6": "First stable release of the mod. Added a lot of new stuff.",
-        "1.2.7": "Updated the mod for neoforge to 1.21.4. Also added new textures which are yet unused",
-        "1.2.7.5": "Added new spawner blocks + added update checker",
-        "1.2.8": "Added loot tables for bank structure and completely rebuild it",
-        "1.2.8.1": "Fixed head icon on the top left in main menu. Just a small visual bug fix",
-        "1.2.8.2": "Beta - 1st version avaible for 1.20.6. Added new 'Escape portal' block (yet to be used), with with you can escape from upcomming structure - The prison",
-        "1.2.8.3": "fixed /prison command"
-    },
     "1.21.4": {
         "1.2.7": "Updated the mod for neoforge to 1.21.4. Also added new textures which are yet unused",
         "1.2.7.5": "Added new spawner blocks + added update checker",
@@ -39,25 +21,9 @@
         "1.2.8.2": "Beta - 1st version avaible for 1.20.6. Added new 'Escape portal' block (yet to be used), with with you can escape from upcomming structure - The prison",
         "1.2.8.3": "fixed /prison command"
     },
-    "1.21.5": {
-        "1.2.7": "Updated the mod for neoforge to 1.21.4. Also added new textures which are yet unused",
-        "1.2.7.5": "Added new spawner blocks + added update checker",
-        "1.2.8": "Added loot tables for bank structure and completely rebuild it",
-        "1.2.8.1": "Fixed head icon on the top left in main menu. Just a small visual bug fix",
-        "1.2.8.2": "Beta - 1st version avaible for 1.20.6. Added new 'Escape portal' block (yet to be used), with with you can escape from upcomming structure - The prison"
-    },
     "promos": {
-        "1.21.5-latest": "1.2.8.2",
-        "1.21.5-recommended": "1.2.8.1",
-
         "1.21.4-latest": "1.2.8.3",
         "1.21.4-recommended": "1.2.8.1",
-
-        "1.21.3-latest": "1.2.8.3",
-        "1.21.3-recommended": "1.2.8.1",
-
-        "1.21.2-latest": "1.2.8.3",
-        "1.21.2-recommended": "1.2.8.1",
 
         "1.21.1-latest": "1.2.8.3",
         "1.21.1-recommended": "1.2.8.1",
