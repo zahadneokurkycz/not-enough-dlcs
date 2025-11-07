@@ -2,7 +2,8 @@
     "homepage": "https://modrinth.com/mod/notenoughdlc/versions",
     "1.20.6": {
         "1.2.8.2": "Beta - 1st version avaible for 1.20.6. Added new 'Escape portal' block (yet to be used), with with you can escape from upcomming structure - The prison",
-        "1.2.8.3": "fixed /prison command"
+        "1.2.8.3": "fixed /prison command",
+        "1.2.9": "edited guy spawning and behaviour, edited bank structure generation, lessen prison's parkour's difficulty, edited hunger and damage in prison. Full changelog: https://modrinth.com/mod/notenoughdlc/version/1.2.9"
     },
     "1.21.1": {
         "1.2.6": "First stable release of the mod. Added a lot of new stuff.",
@@ -11,7 +12,8 @@
         "1.2.8": "Added loot tables for bank structure and completely rebuild it",
         "1.2.8.1": "Fixed head icon on the top left in main menu. Just a small visual bug fix",
         "1.2.8.2": "Beta - 1st version avaible for 1.20.6. Added new 'Escape portal' block (yet to be used), with with you can escape from upcomming structure - The prison",
-        "1.2.8.3": "fixed /prison command"
+        "1.2.8.3": "fixed /prison command",
+        "1.2.9": "edited guy spawning and behaviour, edited bank structure generation, lessen prison's parkour's difficulty, edited hunger and damage in prison. Full changelog: https://modrinth.com/mod/notenoughdlc/version/1.2.9"
     },
     "1.21.4": {
         "1.2.7": "Updated the mod for neoforge to 1.21.4. Also added new textures which are yet unused",
@@ -19,16 +21,17 @@
         "1.2.8": "Added loot tables for bank structure and completely rebuild it",
         "1.2.8.1": "Fixed head icon on the top left in main menu. Just a small visual bug fix",
         "1.2.8.2": "Beta - 1st version avaible for 1.20.6. Added new 'Escape portal' block (yet to be used), with with you can escape from upcomming structure - The prison",
-        "1.2.8.3": "fixed /prison command"
+        "1.2.8.3": "fixed /prison command",
+        "1.2.9": "edited guy spawning and behaviour, edited bank structure generation, lessen prison's parkour's difficulty, edited hunger and damage in prison. Full changelog: https://modrinth.com/mod/notenoughdlc/version/1.2.9"
     },
     "promos": {
-        "1.21.4-latest": "1.2.8.3",
-        "1.21.4-recommended": "1.2.8.1",
+        "1.21.4-latest": "1.2.9",
+        "1.21.4-recommended": "1.2.9",
 
-        "1.21.1-latest": "1.2.8.3",
-        "1.21.1-recommended": "1.2.8.1",
+        "1.21.1-latest": "1.2.9",
+        "1.21.1-recommended": "1.2.9",
 
-        "1.20.6-latest": "1.2.8.3",
-        "1.20.6-recommended": "1.2.8.2"
+        "1.20.6-latest": "1.2.9",
+        "1.20.6-recommended": "1.2.9"
     }
   }
