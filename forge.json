@@ -8,10 +8,11 @@
         "1.2.8.1": "Fixed head icon on the top left in main menu. Just a small visual bug fix",
         "1.2.8.2": "Beta - Added new 'Escape portal' block (yet to be used), with with you can escape from upcomming structure - The prison",
         "1.2.8.3": "fixed /prison command",
-        "1.2.9": "edited guy spawning and behaviour, edited bank structure generation, lessen prison's parkour's difficulty, edited hunger and damage in prison. Full changelog: https://modrinth.com/mod/notenoughdlc/version/1.2.9"
+        "1.2.9": "edited guy spawning and behaviour, edited bank structure generation, lessen prison's parkour's difficulty, edited hunger and damage in prison. Full changelog: https://modrinth.com/mod/notenoughdlc/version/1.2.9",
+        "1.2.9.1": "Alpha - multiplayer test"
     },
     "promos": {
-        "1.20.1-latest": "1.2.9",
+        "1.20.1-latest": "1.2.9.1",
         "1.20.1-recommended": "1.2.9"
     }
   }
