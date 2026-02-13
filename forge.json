@@ -11,10 +11,12 @@
         "1.2.9": "edited guy spawning and behaviour, edited bank structure generation, lessen prison's parkour's difficulty, edited hunger and damage in prison. Full changelog: https://modrinth.com/mod/notenoughdlc/version/1.2.9",
         "1.2.9.1": "Alpha - multiplayer test",
         "1.2.9.2": "Beta - Fixed bugs, changed shop UI, new DLCs, new reload DLCs button. Full changelog: https://modrinth.com/mod/notenoughdlc/version/b1.2.9.2",
-        "1.2.9.3": "Beta - Fixed bugs, added wiki. Final version before main release. Full changelog: https://modrinth.com/mod/notenoughdlc/version/b1.2.9.3"
+        "1.2.9.3": "Beta - Fixed bugs, added wiki. Final version before main release. Full changelog: https://modrinth.com/mod/notenoughdlc/version/b1.2.9.3",
+        "1.3": "Since last release added multiple DLCs, fixed bugs, added wiki, multiplayer support... Full changelog: https://modrinth.com/mod/notenoughdlc/version/1.3"
     },
     "promos": {
-        "1.20.1-latest": "1.2.9.3",
-        "1.20.1-recommended": "1.2.9"
+        "1.20.1-latest": "1.3",
+        "1.20.1-recommended": "1.3"
     }
 }
+
